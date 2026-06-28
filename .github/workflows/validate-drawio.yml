@@ -1,0 +1,31 @@
+name: Validate XMLs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/validate-drawio.yml'
+      - 'contrib/**'
+      - 'template/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/validate-drawio.yml'
+      - 'contrib/**'
+      - 'template/**'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Install Dependencies
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+
+      - name: Validate
+        run: find . -type f -name "*.drawio" -exec xmllint --noout {} +
