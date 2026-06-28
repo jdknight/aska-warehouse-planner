@@ -11,7 +11,7 @@ plan out their warehouses before building them in the game.
 3. Enter the following URL:
 
    ```
-   https://raw.githubusercontent.com/jdknight/aska-warehouse-planner/refs/heads/main/template/AskaWarehouseTemplate.drawio
+   https://raw.githubusercontent.com/jdknight/aska-warehouse-planner/main/template/AskaWarehouseTemplate.drawio
    ```
 
 Users may also opt to downloading the [template][template] file manually and
