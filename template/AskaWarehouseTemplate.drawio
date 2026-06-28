@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" compressed="false">
+  <diagram name="Warehouse" id="rQBOZX6fTsx2CkRQZ81g">
+    <mxGraphModel dx="1842" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1280" pageHeight="560" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="warehouse" connectable="0" parent="1" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="480" width="1200" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2" parent="warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="200" width="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="200" width="400" x="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="200" width="400" x="800" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="200" width="400" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="200" width="400" x="400" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="200" width="400" x="800" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;WATER&lt;/div&gt;&lt;div&gt;BARREL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="480" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;RAW&lt;/div&gt;&lt;div&gt;FOOD&lt;/div&gt;&lt;div&gt;SILO&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="360" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;MEAT&lt;/div&gt;&lt;div&gt;HUNK&lt;/div&gt;&lt;div&gt;RACK&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="240" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;COOKED&lt;/div&gt;&lt;div&gt;FOOD&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;FISH&lt;/div&gt;&lt;div&gt;RACK&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="240" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;STICK&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="920" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;BARK&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="600" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;FIREWOOD&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="RESIN&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="360" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;THATCH&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="1080" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;LONG&lt;/div&gt;&lt;div&gt;STICK&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="480" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="LOG&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="840" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="SMALL&lt;br&gt;&lt;div&gt;CARPENTRY&lt;/div&gt;&lt;div&gt;MATERIALS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="760" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;LONG&lt;/div&gt;&lt;div&gt;CARPENTRY&lt;/div&gt;&lt;div&gt;MATERIALS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="480" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;LARGE&lt;/div&gt;&lt;div&gt;CARPENTRY&lt;/div&gt;&lt;div&gt;MATERIALS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="880" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="STONE&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="480" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;JOTUN&lt;/div&gt;&lt;div&gt;BLOOD&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="240" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;WEAPONS AND&lt;/div&gt;&lt;div&gt;TOOLS RACK&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="1080" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;OUTFIT&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;ARROWS&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;DYE&lt;/div&gt;&lt;div&gt;SHELF&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="120" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;SMALL CRAFTING&lt;/div&gt;&lt;div&gt;MATERIAL&#39;S&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="360" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;COAL&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;CRAWLER&lt;/div&gt;&lt;div&gt;RESOURCES&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="120" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;SMILK&lt;/div&gt;&lt;div&gt;BARREL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="480" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;CHEESE&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="1040" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;LEATHER&lt;/div&gt;&lt;div&gt;SCRAPS&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;LEATHER&lt;/div&gt;&lt;div&gt;AND LINEN&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="240" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;BROKEN&lt;/div&gt;&lt;div&gt;METAL&lt;/div&gt;&lt;div&gt;PARTS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="120" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;EXPLODING&lt;/div&gt;&lt;div&gt;SACK&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="1040" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="CLOATHING&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="800" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="BARRELS&lt;br&gt;RACK" vertex="1">
+          <mxGeometry height="120" width="280" x="600" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="ASKA Warehouse Planner" vertex="1">
+          <mxGeometry height="30" width="180" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;SEED&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;ORE AND&lt;/div&gt;&lt;div&gt;BLOOM&lt;/div&gt;&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="360" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
