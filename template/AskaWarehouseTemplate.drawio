@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" compressed="false">
   <diagram name="Warehouse" id="rQBOZX6fTsx2CkRQZ81g">
-    <mxGraphModel dx="1842" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1280" pageHeight="560" math="0" shadow="0">
+    <mxGraphModel dx="2162" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1280" pageHeight="560" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry height="80" width="320" x="480" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;div&gt;LARGE&lt;/div&gt;&lt;div&gt;CARPENTRY&lt;/div&gt;&lt;div&gt;MATERIALS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="240" x="880" y="720" as="geometry" />
+          <mxGeometry height="120" width="200" x="880" y="720" as="geometry" />
         </mxCell>
         <mxCell id="23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="STONE&lt;div&gt;STORAGE&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="120" x="480" y="680" as="geometry" />
